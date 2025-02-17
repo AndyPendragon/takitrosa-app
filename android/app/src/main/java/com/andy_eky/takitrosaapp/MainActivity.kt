@@ -1,4 +1,4 @@
-package com.andy_eky.takitrosaapp
+package com.eky.takitrosa
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

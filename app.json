@@ -17,7 +17,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.andy_eky.takitrosaapp"
+      "package": "com.eky.takitrosa"
     },
     "web": {
       "bundler": "metro",

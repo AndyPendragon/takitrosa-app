@@ -1,4 +1,4 @@
-package com.andy_eky.takitrosaapp
+package com.eky.takitrosa
 
 import android.app.Application
 import android.content.res.Configuration
